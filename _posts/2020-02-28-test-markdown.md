@@ -2,9 +2,9 @@
 layout: post
 title: Sample blog post
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: Ari-CS-Club/CS-Club-Blog
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [AI]
 comments: true
 ---
 
